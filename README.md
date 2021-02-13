@@ -1,7 +1,7 @@
 ### So, we finally meet again, my friend... :man_with_turban:
 
-- ✏️ I’m currently immersing myself into HTML, CSS, Javascript, Node.js, PostgreSQL and MongoDB.
-- 💜 Even though I'm going for a backend carrer, C/C++ are my childhood friends, and I'm never going to leave them behind.
+- ✏️ I’m currently immersing myself into backend: HTML, CSS, Javascript, Node.js, PostgreSQL and MongoDB.
+- 💜 C/C++ are my childhood friends, and I'm never going to leave them behind.
 - 🖥️ Flirting with OpenGL and computer graphics.
 - 🤖 I developed motion control algorithms for multiple stepper motors for a Delta Robot, and worked with OpenCV for object detection and camera calibration.
 - 🧭 Bucketlist: 8-bit computer with TTL transistors - SNES emulator.
@@ -13,5 +13,5 @@
 *"There is a way out of every box, a solution to every puzzle; it's just a matter of finding it."* <br>
 *-- Captain Jean-Luc Picard*
 
-👍
-https://i1.wp.com/trabalhosujo.com.br/wp//wp-content/uploads/2017/05/twinpeaks-01.gif?ssl=1
+👍 <br> <br>
+![link](https://raw.githubusercontent.com/gabrielnardes/gabrielnardes/main/twinpeaks.gif)
