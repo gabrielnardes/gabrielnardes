@@ -1,4 +1,4 @@
-### So, we finally meet again, my friend... :man_with_turban:
+# So, we finally meet again, my friend... :man_with_turban:
 
 - ✏️ I’m currently immersing myself into backend: HTML, CSS, Javascript, Node.js, PostgreSQL and MongoDB.
 - 💜 C/C++ are my childhood friends, and I'm never going to leave them behind.
