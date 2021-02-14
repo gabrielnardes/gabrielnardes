@@ -1,6 +1,6 @@
 # So, we finally meet again, my friend... :man_with_turban:
 
-- ✏️ I’m currently immersing myself into backend: HTML, CSS, Javascript, Node.js, PostgreSQL and MongoDB.
+- ✏️ I’m currently immersing myself into backend: HTML, CSS, Javascript, REST API, Node.js, PostgreSQL and MongoDB.
 - 💜 C/C++ are my childhood friends, and I'm never going to leave them behind.
 - 🖥️ Flirting with OpenGL and computer graphics.
 - 🤖 I developed motion control algorithms for multiple stepper motors for a Delta Robot, and worked with OpenCV for object detection and camera calibration.
